@@ -13,9 +13,32 @@ class Pila{
         ~Pila(){
             Clear();
         }
+        Pila(const Pila<Element>& original) : top(NULL), length(0) {
+            if (original.IsEmpty()) return;
+
+            Pila<Element> tempStack;
+            Nodo<Element>* current = original.top;
+
+            while (current != NULL) {
+                tempStack.Push(current->getInfo());
+                current = current->getNext();
+            }
+
+            while (!tempStack.IsEmpty()) {
+                this->Push(tempStack.top->getInfo());
+                tempStack.Pop();
+            }
+        }            
+        
+
+        int GetLength() const { return length;}
+        void SetLength(int length) { this->length = length; }
+        Nodo<Element>* GetTop(){ return this->top; }
+        void SetTop(Nodo<Element> *newtop){ this->top = newtop;}
         bool IsEmpty() const{
             return this->length == 0 && this->top == NULL;
         }
+
         void clear(){
             Nodo<Element> *node;
             //Pop a todo
@@ -58,5 +81,38 @@ class Pila{
             cout << " NULL";
 
         }
+        Pila<Element> Clone() const{
+            Pila<Element> newPila;
+            if(IsEmpty()) return;
+            Pila<Element> temp;
+            Nodo<Element> *current = this->top;
+            //Traspasa a una pila auxiliar
+            while(current != NULL){
+                temp.Push(current->getInfo());
+                current = current->getNext();
+            }
+            //Revierte el traspaso
+            while(!temp.IsEmpty()){
+                newPila.Push(temp.GetTop());
+                temp.Pop();
+            }
+            return newPila;
+        }
+        
+        void Reverse(){
+            if(IsEmpty() || length == 1) return;
+            Nodo<Element>* prev = NULL;
+            Nodo<Element>* current = this->top;
+            Nodo<Element>* next = NULL;
+
+            while(current != NULL){
+                next = current->getNext();
+                current->setNext(prev);
+                prev = current;
+                current = next;
+            }
+            this->top = prev;
+        }            
+            
 };
 #endif
