@@ -64,8 +64,15 @@ class Lista {
         
     public:
         Lista() : head(NULL), tail(NULL), length(0) {} //Constructor por defecto
+        
+        /**
+         * @brief constructor con valores especificos
+         */
         Lista(Nodo<Element>* head, Nodo<Element>* tail, int length) : head(head), tail(tail), length(length) {} //Constructor con parametros
         //Constructor de copia
+        /**
+         * @brief constructor copia
+         */
         Lista(const Lista<Element>& originalList) : head(NULL), tail(NULL), length(0) {
             Nodo<Element>* current = originalList.head, *otroActual = NULL;
             this->head = otroActual;
@@ -102,7 +109,15 @@ class Lista {
         void setLength(int length) { this->length = length; }
 
         //Metodos de la lista
+        /**
+         * @brief Evalua si la lista no es vacia (si head es nulo y la longitud es 0)
+         */
         bool isEmpty(){ return head == NULL && length == 0; }
+
+        /**
+         * @brief Añade un nuevo elemento al final de la lista
+         * @param newElement Es el nuevo elemento a agregar
+         */
         void addToEnd(Element newElement){
             Nodo<Element>* newNode = new Nodo<Element>(newElement);
             if (this->length == 0) {
@@ -114,6 +129,9 @@ class Lista {
             }
             this->length++;
         }
+        /**
+         * @brief Inserta el elemento en la cabeza (HEAD)
+         */
         void addToStart(Element newElement) {
             Nodo<Element>* newNode = new Nodo<Element>(newElement);
             if (this->length == 0) {
@@ -125,6 +143,12 @@ class Lista {
             }
             this->length++;
         }
+
+        /**
+         * @brief Inserta el elemento en la posicion designada
+         * @param index es la posicion deseada
+         * @param newElement es el elemento a agregar
+         */
         void addAtPosition(int index, Element newElement) {
             if(this->length == 0)
             if (index < 0 || index > this->length) {
@@ -146,6 +170,12 @@ class Lista {
                 this->length++;
             }
         }
+
+        /**
+         * @brief Intercambia dos nodos
+         * @param pos1 posicion del primer nodo
+         * @param pos2 posicon del segundo nodo
+         */
         void swap(Element pos1, Element pos2){
 
             if (pos1 < 0 || pos2 < 0 || pos1 >= this->length || pos2 >= this->length) {
@@ -170,6 +200,10 @@ class Lista {
             node1->setInfo(node2->getInfo());
             node2->setInfo(temp);
         }
+
+        /**
+         * @brief Elimina el primer elemento de la lista
+         */
         void removeToStart(){
             if(this->length == 0){
                 throw out_of_range("\nError: List is empty\n");
@@ -182,6 +216,11 @@ class Lista {
             this->length--;
             if(this->length == 0) this->tail = NULL;
         }
+
+        /**
+         * @brief Elimina el elemento en la posicion designada
+         * @param index es la posicion del nodo a eliminar (si index = 0 es equivalente a utilziar removeToStart() )
+         */
         void removeAtPosition(int index){
             if(this->length == 0){
                 throw out_of_range("\nError: List is empty\n");
@@ -199,6 +238,10 @@ class Lista {
             this->length--;
             delete nodo;
         }
+
+        /**
+         * @brief Imprime la lista
+         */
         void printList(){
             cout << "Lista: ";
             if(this->length == 0) {
@@ -212,6 +255,12 @@ class Lista {
             }
             cout << "NULL" << endl;
         }
+
+        /**
+         * @brief Actualiza un elemento en la lista
+         * @param index es la posicion deseada
+         * @param newElement es elemento a reemplazar
+         */
         void updateElement(int index, Element newElement){
             if(index < 0 || index > this->length){
                 throw out_of_range("\nError: Index out of range\n");
@@ -235,6 +284,11 @@ class Lista {
             return;
         }
         
+        /**
+         * @brief Busca un elemento en la lista. O(1) para los extremos, O(n) para los demas casos
+         * @param posicion a consular
+         * @return devuelve el contenido del nodo consultado
+         */
         Element search(int index) const {
             if(index == 0) return this->head->getInfo();
             if(index == this->length -1){ return this->tail->getInfo(); }
@@ -247,6 +301,11 @@ class Lista {
             }
             return current->getInfo();
         }
+        /**
+         * @brief Encuentra el Nodo que contiene el elemento
+         * @param consulta es el elemento a encontrar
+         * @return El apuntador al nodo que contiene el elemento
+         */
         Nodo<Element>* findNodo(Element consulta){
             Nodo<Element>* current = this->front;
             bool flag = true;
@@ -255,6 +314,12 @@ class Lista {
             }
             return NULL;
         }
+
+        /**
+         * @brief Encuentra la posicion de un elemento en la lista
+         * @param element Argumento a encontrar
+         * @return posicion en la lista (-1 si no lo encuentra)
+         */
         int findIndex(Element element) const{
             Nodo<Element>* current = this->head;
             int index = 0;
@@ -265,6 +330,9 @@ class Lista {
             }
             return -1;
         }
+        /**
+         * @brief Vacia el contenido de la lista
+         */
         void clear(){
             while(this->head != NULL){
                 Nodo<Element>* temp = this->head;
@@ -275,6 +343,10 @@ class Lista {
             this->head = NULL;
             this->tail = NULL;
         }
+
+        /**
+         * @brief invierta la lista y todos sus elementos
+         */
         void reverse(){
             if(this->length < 1) return;
             Nodo<Element>* prev = NULL;
@@ -290,6 +362,10 @@ class Lista {
             this->head = prev;
             this->tail = originalHead;
         }
+
+        /**
+         * @brief Ordena la lista con MergeSort
+         */
         void mergeSort(){
             if(this->length <= 1) return;
             this->head = mergeSortRec(this->head);
@@ -299,6 +375,43 @@ class Lista {
                 current = current->getNext();
             }
             this->tail = current;
+        }
+
+        /**
+         * @brief copia una lista en la instancia. Vacia la lista actual y da espacio a la nueva
+         * @param nuevalista es la lista a copiar en la instancia
+         */
+        void copy(const Lista<Element> &nuevalista){
+            Nodo<Element> *nuevo, *current;
+            current = nuevalista.head;
+            this->clear();
+            if(nuevalista.length <= 0 && nuevalista.head){
+                this->primero = NULL;
+                this->length = nuevalista.length;
+                return;
+            }
+            nuevo = new Nodo<Element>(current->getInfo());
+            this->head = nuevo;
+            current = current->getNext();
+            while(current != NULL){
+                nuevo->setNext(new Nodo<Element>(current->getInfo()));
+                nuevo = nuevo->getNext();
+                current = current->getNext();
+            }
+
+        }
+        //Sobrecarga de Operadores
+        Lista<Element>& operator= (const Lista<Element> &lista){
+            if(this != &lista) this->copyList(lista);
+        }
+        Element operator [] (int pos){
+            return this->search(pos);
+        }
+        bool operator >(const Lista<Element> &lista){
+            return this->length > lista.length;
+        }
+        bool operator <(const Lista<Element> &lista){
+            return this->length < lista.length;
         }
 };
 #endif
