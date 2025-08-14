@@ -1,0 +1,33 @@
+# Compilador
+CXX = g++
+# Opciones de compilación
+CXXFLAGS = -Wall -Wextra -std=c++98
+# Nombre del ejecutable final
+TARGET = RUN
+# Archivos fuente (.cpp o .c++)
+SRCS = $(wildcard *.cpp)
+# Archivos objeto (.o)
+OBJS = $(SRCS:.cpp=.o)
+
+HEADERS = $(wildcard lib/*.hpp)
+
+# Regla por defecto
+all: $(TARGET)
+
+# Regla para compilar el ejecutable final
+$(TARGET): $(OBJS)
+	$(CXX) $(CXXFLAGS) -o $(TARGET) $(OBJS)
+	./$(TARGET) <entrada.txt>
+
+# Regla para compilar cada archivo fuente en un archivo objeto
+%.o: %.cpp $(HEADERS)
+	$(CXX) $(CXXFLAGS) -c $< -o $@
+
+# Regla para limpiar los archivos generados
+clean:
+	rm -f $(OBJS) $(TARGET)
+
+# Regla para recompilar desde cero
+rebuild: clean all
+
+.PHONY: all clean rebuild

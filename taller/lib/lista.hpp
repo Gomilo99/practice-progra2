@@ -74,14 +74,23 @@ class Lista {
          * @brief constructor copia
          */
         Lista(const Lista<Element>& originalList) : head(NULL), tail(NULL), length(0) {
-            Nodo<Element>* current = originalList.head, *otroActual = NULL;
-            this->head = otroActual;
+            Nodo<Element>* current = originalList.head;
+            Nodo<Element>* newHead = NULL;
+            Nodo<Element>* newTail = NULL;
+
             while(current != NULL){
-                otroActual = new Nodo<Element>(current->getInfo());
+                // Use copy constructor to create a deep copy of the element
+                Element newElement = current->getInfo(); 
+                Nodo<Element>* newNode = new Nodo<Element>(newElement);
+
+                if (newHead == NULL) {
+                    newHead = newNode;
+                } else {
+                    newTail->setNext(newNode);
+                }
+                newTail = newNode;            
                 current = current->getNext();
-                otroActual = otroActual->getNext();
             }
-            this->length = originalList.length;
             
         }//O(n)
 
@@ -402,9 +411,9 @@ class Lista {
         }
         //Sobrecarga de Operadores
         Lista<Element>& operator= (const Lista<Element> &lista){
-            if(this != &lista) this->copyList(lista);
+            if(this != &lista) this->copy(lista);
         }
-        Element operator[](int pos){
+        Element operator [](int pos){
             return this->search(pos);
         }
         bool operator >(const Lista<Element> &lista){
@@ -412,6 +421,10 @@ class Lista {
         }
         bool operator <(const Lista<Element> &lista){
             return this->length < lista.length;
+        }
+
+        void addLista(Lista<Element> lista){
+            
         }
 };
 #endif
