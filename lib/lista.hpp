@@ -404,7 +404,8 @@ class Lista {
         Lista<Element>& operator= (const Lista<Element> &lista){
             if(this != &lista) this->copyList(lista);
         }
-        Element operator [] (int pos){
+        Element operator 
+         (int pos){
             return this->search(pos);
         }
         bool operator >(const Lista<Element> &lista){

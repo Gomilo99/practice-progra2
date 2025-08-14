@@ -1,0 +1,39 @@
+# makefile: brigido noguera
+
+# Variable para el compilador
+CC = g++
+
+QFLAGS =  -Wall -Wextra 
+MAIN = ejercicio1.cpp
+
+# en esta variable ira el directorio de los archivos *.hpp
+DIR = ../algoritmo2
+
+# Como ira despues del main.cpp, le dira donde se ubica los archivos cabezera
+HEADS = -I$(DIR)
+
+TARGET = lpc
+
+
+all: $(TARGET)
+
+
+$(TARGET): $(MAIN)
+	$(CC) -O3  $(MAIN)  -o $(TARGET)
+
+run: $(TARGET)
+    ./$(TARGET)
+
+run-in: $(TARGET)
+    ./$(TARGET) < entrada.txt
+
+run-out: $(TARGET)
+    ./$(TARGET) > salida.txt
+
+run-inout: $(TARGET)
+    ./$(TARGET) < entrada.txt > salida.txt
+
+clean:
+    rm -f ./*.o $(TARGET)
+    
+.PHONY: clean all run run-in run-out run-inout
