@@ -27,26 +27,15 @@ int main(){
 
         aux.addToStart(i*i);
         aux.addToEnd(i + 4);
-        anadir(anidada, aux);
+        anidada.addToEnd(aux);
     }
     
     cout << "ListaListas";
-    string elemento;
-
-    Lista<string> prueba;
-    int n = 0;
-    while(n < 4){
-        cin >> elemento;
-        cout << elemento;
-        prueba.addToEnd(elemento);
-        n++;
-    }
-
-    prueba.printList();
     
+    Lista<int> aux;
     while(!anidada.isEmpty()){
-        anidada.search(0).printList();
-
+        aux.copy(anidada.search(0));
+        aux.printList();
         anidada.removeToStart();
     }
     

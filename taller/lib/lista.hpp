@@ -395,7 +395,7 @@ class Lista {
             current = nuevalista.head;
             this->clear();
             if(nuevalista.length <= 0 && nuevalista.head){
-                this->primero = NULL;
+                this->head = NULL;
                 this->length = nuevalista.length;
                 return;
             }
@@ -411,7 +411,7 @@ class Lista {
         }
         //Sobrecarga de Operadores
         Lista<Element>& operator= (const Lista<Element> &lista){
-            if(this != &lista) this->copy(lista);
+            if(this != &lista) return this->copy(lista);
         }
         Element operator [](int pos){
             return this->search(pos);
