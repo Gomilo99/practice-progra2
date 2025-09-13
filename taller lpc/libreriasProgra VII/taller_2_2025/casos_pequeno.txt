@@ -1,0 +1,11 @@
+5
+29 18 10
+"Alvaro Rojas", "Nora Garcia", "Patricia Perez", "Carlos Jimenez", "Fatima Lopez", "Laura Perez", "Esteban Soto", "Jimena Campbell", "Fatima Gomez", "Diana Garcia", "Carlos Espinoza", "Patricia Rojas", "Kevin Espinoza", "Helena Soto", "Beatriz Ruiz", "Alvaro Ruiz", "Nora Diaz", "Esteban Rojas", "Oscar Lopez", "Nora Garcia", "Ivan Espinoza", "Oscar Gomez", "Alvaro Mora", "Esteban Mora", "Fatima Diaz", "Oscar Tyler", "Helena Rojas", "Patricia Mora", "Mateo Rojas"
+17 18 12
+"Jimena Hendrix", "Beatriz Perez", "Mateo Lopez", "Nora Lopez", "Carlos Vargas", "Alvaro Perez", "Helena Gomez", "Beatriz Gomez", "Laura Diaz", "Kevin Garcia", "Mateo Mora", "Helena Garcia", "Mateo Gomez", "Mateo Jimenez", "Patricia Garcia", "Carlos Ruiz", "Helena Diaz"
+8 21 5
+"Fatima Garcia", "Carlos Ruiz", "Beatriz Soto", "Carlos Perez", "Nora Garcia", "Jimena Soto", "Nora Campbell", "Beatriz Campbell"
+39 20 17
+"Diana Tyler", "Oscar Espinoza", "Fatima Ruiz", "Nora Perez", "Oscar Vargas", "Mateo Ruiz", "Fatima Diaz", "Helena Gomez", "Carlos Hendrix", "Helena Gomez", "Ivan Mora", "Oscar Tyler", "Laura Diaz", "Fatima Ruiz", "Patricia Jimenez", "Jimena Soto", "Carlos Campbell", "Fatima Espinoza", "Mateo Perez", "Ivan Garcia", "Nora Diaz", "Fatima Diaz", "Mateo Campbell", "Diana Hendrix", "Helena Jimenez", "Diana Hendrix", "Gabriel Diaz", "Carlos Diaz", "Laura Espinoza", "Jimena Garcia", "Nora Mora", "Mateo Perez", "Patricia Diaz", "Oscar Mora", "Oscar Espinoza", "Oscar Diaz", "Mateo Tyler", "Oscar Jimenez", "Fatima Rojas"
+50 9 10
+"Diana Campbell", "Alvaro Vargas", "Helena Mora", "Diana Mora", "Mateo Mora", "Kevin Gomez", "Oscar Garcia", "Mateo Gomez", "Beatriz Soto", "Alvaro Vargas", "Fatima Garcia", "Jimena Campbell", "Diana Tyler", "Gabriel Hendrix", "Helena Gomez", "Oscar Gomez", "Helena Tyler", "Esteban Ruiz", "Carlos Ruiz", "Jimena Garcia", "Jimena Vargas", "Helena Soto", "Patricia Tyler", "Alvaro Ruiz", "Gabriel Jimenez", "Ivan Gomez", "Gabriel Ruiz", "Esteban Tyler", "Gabriel Mora", "Gabriel Rojas", "Kevin Diaz", "Carlos Diaz", "Laura Garcia", "Beatriz Ruiz", "Jimena Espinoza", "Laura Campbell", "Laura Tyler", "Nora Vargas", "Carlos Jimenez", "Oscar Garcia", "Patricia Ruiz", "Laura Jimenez", "Ivan Mora", "Ivan Hendrix", "Nora Tyler", "Alvaro Ruiz", "Gabriel Mora", "Ivan Soto", "Alvaro Lopez", "Beatriz Soto"

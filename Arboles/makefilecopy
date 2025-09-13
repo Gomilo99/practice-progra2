@@ -1,0 +1,19 @@
+SHELL = powershell.exe
+CXX = g++
+CXXFLAGS = -Wall -g -Ilib
+TARGET = arbolVideojuego
+SOURCES = arbolVideojuego.cpp
+HEADERS = $(wildcard lib/*.hpp)
+OBJECTS = $(SOURCES:.cpp=.o)
+
+all: $(TARGET)
+
+$(TARGET): $(OBJECTS)
+	$(CXX) $(CXXFLAGS) -o $(TARGET) $(OBJECTS)
+	Get-Content -Path videojuegos.txt | .\$(TARGET) > salida.txt
+
+arbolVideojuego.o: arbolVideojuego.cpp $(HEADERS)
+	$(CXX) $(CXXFLAGS) -c arbolVideojuego.cpp
+
+clean:
+	rm -f $(TARGET) $(OBJECTS)

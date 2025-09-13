@@ -1,0 +1,201 @@
+100
+29 18 10
+"Alvaro Rojas", "Nora Garcia", "Patricia Perez", "Carlos Jimenez", "Fatima Lopez", "Laura Perez", "Esteban Soto", "Jimena Campbell", "Fatima Gomez", "Diana Garcia", "Carlos Espinoza", "Patricia Rojas", "Kevin Espinoza", "Helena Soto", "Beatriz Ruiz", "Alvaro Ruiz", "Nora Diaz", "Esteban Rojas", "Oscar Lopez", "Nora Garcia", "Ivan Espinoza", "Oscar Gomez", "Alvaro Mora", "Esteban Mora", "Fatima Diaz", "Oscar Tyler", "Helena Rojas", "Patricia Mora", "Mateo Rojas"
+17 18 12
+"Jimena Hendrix", "Beatriz Perez", "Mateo Lopez", "Nora Lopez", "Carlos Vargas", "Alvaro Perez", "Helena Gomez", "Beatriz Gomez", "Laura Diaz", "Kevin Garcia", "Mateo Mora", "Helena Garcia", "Mateo Gomez", "Mateo Jimenez", "Patricia Garcia", "Carlos Ruiz", "Helena Diaz"
+8 21 5
+"Fatima Garcia", "Carlos Ruiz", "Beatriz Soto", "Carlos Perez", "Nora Garcia", "Jimena Soto", "Nora Campbell", "Beatriz Campbell"
+39 20 17
+"Diana Tyler", "Oscar Espinoza", "Fatima Ruiz", "Nora Perez", "Oscar Vargas", "Mateo Ruiz", "Fatima Diaz", "Helena Gomez", "Carlos Hendrix", "Helena Gomez", "Ivan Mora", "Oscar Tyler", "Laura Diaz", "Fatima Ruiz", "Patricia Jimenez", "Jimena Soto", "Carlos Campbell", "Fatima Espinoza", "Mateo Perez", "Ivan Garcia", "Nora Diaz", "Fatima Diaz", "Mateo Campbell", "Diana Hendrix", "Helena Jimenez", "Diana Hendrix", "Gabriel Diaz", "Carlos Diaz", "Laura Espinoza", "Jimena Garcia", "Nora Mora", "Mateo Perez", "Patricia Diaz", "Oscar Mora", "Oscar Espinoza", "Oscar Diaz", "Mateo Tyler", "Oscar Jimenez", "Fatima Rojas"
+50 9 10
+"Diana Campbell", "Alvaro Vargas", "Helena Mora", "Diana Mora", "Mateo Mora", "Kevin Gomez", "Oscar Garcia", "Mateo Gomez", "Beatriz Soto", "Alvaro Vargas", "Fatima Garcia", "Jimena Campbell", "Diana Tyler", "Gabriel Hendrix", "Helena Gomez", "Oscar Gomez", "Helena Tyler", "Esteban Ruiz", "Carlos Ruiz", "Jimena Garcia", "Jimena Vargas", "Helena Soto", "Patricia Tyler", "Alvaro Ruiz", "Gabriel Jimenez", "Ivan Gomez", "Gabriel Ruiz", "Esteban Tyler", "Gabriel Mora", "Gabriel Rojas", "Kevin Diaz", "Carlos Diaz", "Laura Garcia", "Beatriz Ruiz", "Jimena Espinoza", "Laura Campbell", "Laura Tyler", "Nora Vargas", "Carlos Jimenez", "Oscar Garcia", "Patricia Ruiz", "Laura Jimenez", "Ivan Mora", "Ivan Hendrix", "Nora Tyler", "Alvaro Ruiz", "Gabriel Mora", "Ivan Soto", "Alvaro Lopez", "Beatriz Soto"
+17 10 17
+"Oscar Campbell", "Ivan Lopez", "Alvaro Rojas", "Kevin Soto", "Fatima Espinoza", "Mateo Soto", "Carlos Gomez", "Carlos Hendrix", "Patricia Campbell", "Fatima Ruiz", "Helena Hendrix", "Patricia Tyler", "Alvaro Ruiz", "Beatriz Diaz", "Helena Gomez", "Fatima Vargas", "Nora Soto"
+24 18 16
+"Kevin Perez", "Laura Ruiz", "Nora Mora", "Alvaro Garcia", "Esteban Hendrix", "Diana Diaz", "Patricia Soto", "Diana Ruiz", "Laura Lopez", "Kevin Rojas", "Patricia Tyler", "Jimena Diaz", "Mateo Diaz", "Gabriel Hendrix", "Fatima Jimenez", "Alvaro Espinoza", "Laura Lopez", "Ivan Lopez", "Oscar Tyler", "Helena Garcia", "Fatima Gomez", "Patricia Perez", "Esteban Gomez", "Jimena Ruiz"
+45 4 7
+"Fatima Vargas", "Beatriz Hendrix", "Mateo Vargas", "Fatima Diaz", "Esteban Jimenez", "Helena Vargas", "Esteban Gomez", "Beatriz Soto", "Esteban Diaz", "Esteban Soto", "Helena Espinoza", "Gabriel Tyler", "Ivan Ruiz", "Laura Jimenez", "Oscar Campbell", "Ivan Campbell", "Esteban Ruiz", "Mateo Perez", "Mateo Espinoza", "Patricia Gomez", "Esteban Ruiz", "Laura Hendrix", "Oscar Campbell", "Jimena Lopez", "Kevin Jimenez", "Alvaro Mora", "Patricia Vargas", "Alvaro Espinoza", "Alvaro Vargas", "Ivan Perez", "Mateo Tyler", "Alvaro Vargas", "Patricia Perez", "Oscar Soto", "Esteban Garcia", "Gabriel Rojas", "Patricia Campbell", "Fatima Hendrix", "Oscar Vargas", "Patricia Lopez", "Fatima Garcia", "Kevin Mora", "Helena Rojas", "Fatima Garcia", "Beatriz Hendrix"
+22 3 7
+"Jimena Rojas", "Oscar Perez", "Jimena Mora", "Oscar Gomez", "Mateo Perez", "Jimena Mora", "Beatriz Tyler", "Carlos Soto", "Esteban Hendrix", "Nora Espinoza", "Alvaro Lopez", "Helena Vargas", "Carlos Campbell", "Oscar Tyler", "Gabriel Hendrix", "Beatriz Mora", "Gabriel Lopez", "Alvaro Garcia", "Fatima Tyler", "Jimena Gomez", "Esteban Espinoza", "Ivan Garcia"
+39 25 26
+"Diana Perez", "Jimena Gomez", "Ivan Lopez", "Jimena Diaz", "Esteban Garcia", "Helena Tyler", "Helena Diaz", "Oscar Soto", "Laura Perez", "Fatima Rojas", "Ivan Hendrix", "Fatima Garcia", "Alvaro Jimenez", "Nora Campbell", "Carlos Lopez", "Jimena Campbell", "Beatriz Lopez", "Alvaro Campbell", "Laura Diaz", "Nora Jimenez", "Gabriel Perez", "Patricia Jimenez", "Oscar Lopez", "Ivan Vargas", "Carlos Hendrix", "Laura Lopez", "Laura Hendrix", "Gabriel Diaz", "Patricia Rojas", "Alvaro Ruiz", "Beatriz Jimenez", "Kevin Soto", "Carlos Ruiz", "Ivan Soto", "Laura Garcia", "Alvaro Mora", "Ivan Gomez", "Beatriz Tyler", "Beatriz Tyler"
+8 24 5
+"Alvaro Espinoza", "Oscar Jimenez", "Beatriz Vargas", "Carlos Tyler", "Carlos Espinoza", "Carlos Gomez", "Jimena Diaz", "Carlos Gomez"
+35 16 9
+"Jimena Vargas", "Diana Perez", "Kevin Hendrix", "Diana Espinoza", "Carlos Gomez", "Carlos Jimenez", "Helena Espinoza", "Nora Campbell", "Diana Garcia", "Diana Rojas", "Diana Espinoza", "Kevin Campbell", "Jimena Espinoza", "Gabriel Garcia", "Diana Soto", "Kevin Rojas", "Diana Jimenez", "Nora Tyler", "Gabriel Garcia", "Carlos Ruiz", "Alvaro Gomez", "Alvaro Gomez", "Oscar Gomez", "Kevin Jimenez", "Diana Hendrix", "Oscar Tyler", "Laura Campbell", "Esteban Espinoza", "Beatriz Campbell", "Esteban Espinoza", "Diana Vargas", "Jimena Hendrix", "Gabriel Rojas", "Ivan Campbell", "Fatima Hendrix"
+22 14 0
+"Gabriel Diaz", "Mateo Ruiz", "Esteban Espinoza", "Ivan Soto", "Oscar Rojas", "Kevin Tyler", "Esteban Rojas", "Alvaro Hendrix", "Carlos Jimenez", "Esteban Hendrix", "Patricia Mora", "Patricia Rojas", "Nora Campbell", "Patricia Hendrix", "Carlos Perez", "Gabriel Lopez", "Gabriel Lopez", "Kevin Vargas", "Alvaro Lopez", "Laura Perez", "Diana Ruiz", "Jimena Espinoza"
+48 10 42
+"Carlos Espinoza", "Helena Vargas", "Carlos Jimenez", "Kevin Rojas", "Mateo Tyler", "Oscar Lopez", "Esteban Lopez", "Carlos Vargas", "Ivan Tyler", "Helena Campbell", "Alvaro Hendrix", "Nora Vargas", "Gabriel Garcia", "Helena Tyler", "Mateo Mora", "Diana Rojas", "Nora Gomez", "Beatriz Espinoza", "Patricia Gomez", "Patricia Campbell", "Helena Ruiz", "Nora Campbell", "Jimena Garcia", "Helena Lopez", "Nora Diaz", "Esteban Perez", "Ivan Gomez", "Jimena Tyler", "Patricia Espinoza", "Carlos Jimenez", "Fatima Soto", "Nora Lopez", "Ivan Gomez", "Patricia Vargas", "Laura Lopez", "Mateo Garcia", "Mateo Espinoza", "Jimena Diaz", "Esteban Rojas", "Laura Tyler", "Diana Ruiz", "Jimena Ruiz", "Ivan Espinoza", "Gabriel Hendrix", "Helena Campbell", "Oscar Diaz", "Gabriel Vargas", "Mateo Tyler"
+39 19 33
+"Ivan Diaz", "Ivan Ruiz", "Patricia Mora", "Gabriel Rojas", "Diana Mora", "Kevin Mora", "Oscar Tyler", "Ivan Hendrix", "Helena Lopez", "Ivan Gomez", "Kevin Gomez", "Jimena Soto", "Carlos Campbell", "Beatriz Vargas", "Esteban Diaz", "Gabriel Hendrix", "Kevin Vargas", "Kevin Mora", "Esteban Tyler", "Kevin Hendrix", "Beatriz Tyler", "Alvaro Soto", "Helena Tyler", "Mateo Ruiz", "Laura Tyler", "Carlos Tyler", "Gabriel Garcia", "Alvaro Perez", "Helena Hendrix", "Laura Tyler", "Fatima Jimenez", "Alvaro Espinoza", "Jimena Tyler", "Oscar Rojas", "Nora Vargas", "Nora Jimenez", "Alvaro Mora", "Oscar Campbell", "Patricia Jimenez"
+26 8 13
+"Gabriel Rojas", "Carlos Campbell", "Oscar Perez", "Esteban Garcia", "Jimena Lopez", "Beatriz Campbell", "Esteban Diaz", "Fatima Mora", "Gabriel Gomez", "Laura Diaz", "Kevin Tyler", "Kevin Jimenez", "Beatriz Tyler", "Laura Jimenez", "Nora Lopez", "Alvaro Mora", "Ivan Espinoza", "Helena Vargas", "Laura Mora", "Diana Vargas", "Kevin Tyler", "Patricia Lopez", "Beatriz Perez", "Laura Garcia", "Fatima Soto", "Fatima Ruiz"
+45 16 35
+"Gabriel Hendrix", "Nora Perez", "Mateo Lopez", "Diana Mora", "Fatima Lopez", "Esteban Soto", "Fatima Ruiz", "Diana Campbell", "Jimena Vargas", "Helena Gomez", "Nora Mora", "Esteban Gomez", "Diana Campbell", "Kevin Hendrix", "Jimena Lopez", "Nora Gomez", "Fatima Vargas", "Oscar Jimenez", "Beatriz Diaz", "Oscar Tyler", "Nora Rojas", "Esteban Ruiz", "Gabriel Mora", "Patricia Vargas", "Beatriz Tyler", "Oscar Espinoza", "Kevin Garcia", "Ivan Tyler", "Fatima Hendrix", "Carlos Lopez", "Mateo Rojas", "Ivan Soto", "Nora Vargas", "Nora Soto", "Diana Rojas", "Jimena Jimenez", "Diana Hendrix", "Helena Hendrix", "Diana Gomez", "Beatriz Perez", "Ivan Mora", "Esteban Espinoza", "Mateo Vargas", "Alvaro Campbell", "Ivan Ruiz"
+49 14 9
+"Jimena Gomez", "Jimena Campbell", "Beatriz Ruiz", "Mateo Jimenez", "Esteban Perez", "Diana Perez", "Helena Campbell", "Gabriel Perez", "Beatriz Rojas", "Gabriel Mora", "Diana Diaz", "Fatima Ruiz", "Oscar Perez", "Patricia Gomez", "Beatriz Campbell", "Kevin Soto", "Laura Vargas", "Mateo Diaz", "Laura Ruiz", "Carlos Lopez", "Alvaro Mora", "Esteban Diaz", "Gabriel Perez", "Patricia Perez", "Oscar Hendrix", "Mateo Perez", "Patricia Ruiz", "Mateo Perez", "Jimena Garcia", "Patricia Hendrix", "Laura Mora", "Fatima Tyler", "Kevin Ruiz", "Kevin Rojas", "Patricia Perez", "Alvaro Mora", "Oscar Diaz", "Ivan Soto", "Carlos Perez", "Beatriz Lopez", "Helena Espinoza", "Nora Vargas", "Patricia Perez", "Helena Jimenez", "Jimena Gomez", "Gabriel Vargas", "Patricia Garcia", "Patricia Garcia", "Ivan Mora"
+39 16 29
+"Jimena Lopez", "Mateo Gomez", "Oscar Jimenez", "Kevin Ruiz", "Ivan Hendrix", "Oscar Hendrix", "Kevin Jimenez", "Patricia Espinoza", "Kevin Campbell", "Oscar Campbell", "Jimena Diaz", "Esteban Jimenez", "Kevin Lopez", "Nora Ruiz", "Gabriel Campbell", "Carlos Espinoza", "Oscar Mora", "Beatriz Gomez", "Patricia Gomez", "Jimena Campbell", "Jimena Jimenez", "Ivan Campbell", "Carlos Lopez", "Kevin Campbell", "Helena Garcia", "Oscar Jimenez", "Alvaro Hendrix", "Laura Vargas", "Laura Ruiz", "Fatima Hendrix", "Patricia Vargas", "Patricia Soto", "Laura Gomez", "Nora Diaz", "Patricia Tyler", "Esteban Ruiz", "Diana Lopez", "Gabriel Hendrix", "Diana Gomez"
+16 24 1
+"Oscar Lopez", "Gabriel Garcia", "Fatima Garcia", "Beatriz Ruiz", "Fatima Perez", "Jimena Soto", "Diana Gomez", "Patricia Mora", "Nora Garcia", "Carlos Gomez", "Nora Gomez", "Alvaro Lopez", "Beatriz Espinoza", "Jimena Tyler", "Alvaro Hendrix", "Diana Perez"
+21 1 13
+"Kevin Campbell", "Kevin Garcia", "Oscar Diaz", "Ivan Rojas", "Helena Tyler", "Diana Lopez", "Carlos Ruiz", "Diana Jimenez", "Esteban Campbell", "Helena Mora", "Mateo Perez", "Oscar Vargas", "Kevin Lopez", "Fatima Vargas", "Alvaro Rojas", "Carlos Hendrix", "Gabriel Lopez", "Alvaro Rojas", "Helena Lopez", "Fatima Diaz", "Gabriel Perez"
+32 14 32
+"Jimena Tyler", "Helena Campbell", "Fatima Gomez", "Jimena Mora", "Jimena Ruiz", "Nora Soto", "Ivan Hendrix", "Jimena Hendrix", "Oscar Soto", "Kevin Espinoza", "Fatima Lopez", "Gabriel Campbell", "Gabriel Soto", "Esteban Perez", "Alvaro Ruiz", "Laura Garcia", "Nora Jimenez", "Fatima Rojas", "Ivan Diaz", "Laura Lopez", "Helena Campbell", "Oscar Hendrix", "Carlos Lopez", "Helena Garcia", "Carlos Jimenez", "Esteban Vargas", "Beatriz Jimenez", "Helena Espinoza", "Alvaro Rojas", "Carlos Ruiz", "Gabriel Mora", "Mateo Tyler"
+28 6 7
+"Laura Jimenez", "Laura Vargas", "Gabriel Diaz", "Nora Campbell", "Mateo Vargas", "Alvaro Tyler", "Ivan Ruiz", "Nora Perez", "Patricia Lopez", "Helena Ruiz", "Fatima Jimenez", "Esteban Campbell", "Alvaro Tyler", "Ivan Espinoza", "Diana Perez", "Oscar Hendrix", "Helena Espinoza", "Oscar Rojas", "Carlos Tyler", "Alvaro Diaz", "Nora Mora", "Gabriel Espinoza", "Gabriel Gomez", "Alvaro Campbell", "Beatriz Rojas", "Esteban Jimenez", "Patricia Campbell", "Laura Ruiz"
+33 14 25
+"Carlos Vargas", "Helena Campbell", "Mateo Tyler", "Beatriz Tyler", "Mateo Hendrix", "Diana Jimenez", "Gabriel Gomez", "Gabriel Soto", "Diana Diaz", "Diana Campbell", "Jimena Diaz", "Mateo Gomez", "Carlos Diaz", "Alvaro Vargas", "Laura Mora", "Helena Lopez", "Esteban Lopez", "Carlos Soto", "Patricia Garcia", "Esteban Perez", "Helena Hendrix", "Kevin Perez", "Ivan Soto", "Esteban Lopez", "Oscar Mora", "Gabriel Diaz", "Esteban Gomez", "Beatriz Jimenez", "Oscar Lopez", "Alvaro Mora", "Patricia Diaz", "Jimena Hendrix", "Oscar Campbell"
+31 13 30
+"Patricia Lopez", "Beatriz Lopez", "Jimena Campbell", "Alvaro Diaz", "Diana Tyler", "Jimena Mora", "Esteban Lopez", "Esteban Tyler", "Ivan Espinoza", "Gabriel Espinoza", "Fatima Garcia", "Nora Vargas", "Diana Ruiz", "Jimena Ruiz", "Nora Lopez", "Carlos Rojas", "Laura Jimenez", "Ivan Campbell", "Carlos Mora", "Nora Jimenez", "Fatima Soto", "Kevin Rojas", "Patricia Diaz", "Diana Vargas", "Oscar Lopez", "Nora Rojas", "Beatriz Rojas", "Patricia Soto", "Beatriz Rojas", "Ivan Espinoza", "Patricia Mora"
+12 15 3
+"Kevin Perez", "Carlos Tyler", "Kevin Diaz", "Diana Rojas", "Mateo Hendrix", "Mateo Garcia", "Nora Campbell", "Laura Soto", "Jimena Tyler", "Fatima Tyler", "Carlos Garcia", "Beatriz Hendrix"
+17 1 12
+"Patricia Garcia", "Fatima Gomez", "Laura Diaz", "Kevin Perez", "Ivan Ruiz", "Fatima Espinoza", "Oscar Ruiz", "Kevin Rojas", "Gabriel Jimenez", "Ivan Diaz", "Esteban Ruiz", "Beatriz Ruiz", "Esteban Vargas", "Nora Soto", "Alvaro Espinoza", "Kevin Rojas", "Beatriz Lopez"
+14 0 3
+"Mateo Perez", "Mateo Perez", "Oscar Vargas", "Fatima Perez", "Mateo Jimenez", "Beatriz Campbell", "Kevin Ruiz", "Nora Garcia", "Helena Jimenez", "Gabriel Soto", "Diana Garcia", "Alvaro Mora", "Helena Mora", "Oscar Garcia"
+45 23 11
+"Nora Espinoza", "Carlos Campbell", "Diana Rojas", "Mateo Diaz", "Fatima Hendrix", "Jimena Diaz", "Laura Rojas", "Alvaro Soto", "Nora Ruiz", "Nora Garcia", "Gabriel Garcia", "Mateo Tyler", "Laura Gomez", "Beatriz Diaz", "Esteban Soto", "Helena Rojas", "Ivan Lopez", "Jimena Campbell", "Diana Vargas", "Kevin Garcia", "Beatriz Gomez", "Esteban Gomez", "Oscar Diaz", "Oscar Perez", "Jimena Espinoza", "Diana Ruiz", "Patricia Ruiz", "Kevin Gomez", "Alvaro Gomez", "Mateo Hendrix", "Beatriz Campbell", "Oscar Rojas", "Ivan Campbell", "Beatriz Gomez", "Oscar Diaz", "Ivan Ruiz", "Patricia Campbell", "Mateo Garcia", "Nora Vargas", "Beatriz Gomez", "Patricia Ruiz", "Carlos Gomez", "Jimena Diaz", "Ivan Garcia", "Diana Hendrix"
+20 14 5
+"Mateo Ruiz", "Jimena Jimenez", "Esteban Perez", "Patricia Gomez", "Kevin Tyler", "Gabriel Tyler", "Ivan Hendrix", "Esteban Garcia", "Carlos Rojas", "Esteban Perez", "Alvaro Mora", "Helena Espinoza", "Nora Rojas", "Gabriel Hendrix", "Alvaro Mora", "Diana Espinoza", "Jimena Campbell", "Oscar Jimenez", "Esteban Tyler", "Patricia Jimenez"
+41 2 7
+"Laura Espinoza", "Beatriz Ruiz", "Ivan Jimenez", "Beatriz Garcia", "Ivan Mora", "Diana Hendrix", "Laura Mora", "Fatima Campbell", "Jimena Jimenez", "Beatriz Perez", "Esteban Tyler", "Beatriz Rojas", "Mateo Jimenez", "Helena Hendrix", "Fatima Hendrix", "Jimena Ruiz", "Patricia Soto", "Diana Espinoza", "Carlos Garcia", "Gabriel Garcia", "Esteban Hendrix", "Kevin Jimenez", "Fatima Ruiz", "Beatriz Perez", "Oscar Gomez", "Nora Jimenez", "Jimena Mora", "Ivan Mora", "Alvaro Soto", "Alvaro Lopez", "Ivan Hendrix", "Alvaro Vargas", "Kevin Ruiz", "Gabriel Rojas", "Esteban Garcia", "Esteban Hendrix", "Esteban Soto", "Mateo Ruiz", "Helena Mora", "Diana Garcia", "Carlos Gomez"
+16 5 13
+"Jimena Garcia", "Ivan Rojas", "Diana Mora", "Diana Soto", "Ivan Vargas", "Jimena Soto", "Laura Tyler", "Diana Espinoza", "Laura Mora", "Oscar Hendrix", "Jimena Jimenez", "Jimena Lopez", "Carlos Rojas", "Helena Mora", "Kevin Perez", "Mateo Mora"
+2 3 1
+"Beatriz Ruiz", "Fatima Rojas"
+43 6 32
+"Nora Diaz", "Esteban Vargas", "Nora Ruiz", "Ivan Gomez", "Oscar Espinoza", "Laura Lopez", "Esteban Tyler", "Esteban Espinoza", "Carlos Lopez", "Patricia Soto", "Kevin Perez", "Laura Campbell", "Carlos Perez", "Beatriz Garcia", "Helena Campbell", "Mateo Tyler", "Fatima Vargas", "Alvaro Gomez", "Diana Ruiz", "Patricia Rojas", "Esteban Perez", "Mateo Lopez", "Laura Campbell", "Diana Vargas", "Patricia Gomez", "Beatriz Diaz", "Kevin Ruiz", "Jimena Campbell", "Carlos Gomez", "Jimena Campbell", "Fatima Garcia", "Laura Tyler", "Fatima Perez", "Carlos Vargas", "Carlos Ruiz", "Nora Tyler", "Mateo Vargas", "Esteban Hendrix", "Esteban Espinoza", "Nora Vargas", "Esteban Vargas", "Alvaro Diaz", "Patricia Hendrix"
+46 0 36
+"Jimena Vargas", "Mateo Diaz", "Laura Soto", "Kevin Diaz", "Alvaro Perez", "Esteban Gomez", "Esteban Rojas", "Jimena Ruiz", "Jimena Soto", "Patricia Garcia", "Laura Hendrix", "Diana Diaz", "Gabriel Garcia", "Gabriel Gomez", "Nora Gomez", "Carlos Perez", "Beatriz Mora", "Oscar Mora", "Esteban Jimenez", "Jimena Rojas", "Carlos Ruiz", "Fatima Vargas", "Laura Ruiz", "Fatima Diaz", "Patricia Vargas", "Beatriz Gomez", "Jimena Lopez", "Oscar Mora", "Jimena Perez", "Fatima Garcia", "Mateo Hendrix", "Nora Gomez", "Mateo Soto", "Nora Espinoza", "Beatriz Jimenez", "Jimena Campbell", "Laura Hendrix", "Oscar Ruiz", "Fatima Vargas", "Fatima Campbell", "Kevin Campbell", "Esteban Lopez", "Nora Tyler", "Fatima Vargas", "Kevin Hendrix", "Nora Tyler"
+1 6 1
+"Jimena Garcia"
+32 22 31
+"Oscar Ruiz", "Carlos Perez", "Fatima Perez", "Carlos Tyler", "Fatima Tyler", "Ivan Hendrix", "Oscar Hendrix", "Carlos Perez", "Jimena Gomez", "Beatriz Perez", "Gabriel Tyler", "Mateo Mora", "Kevin Garcia", "Helena Rojas", "Laura Vargas", "Alvaro Perez", "Helena Vargas", "Jimena Vargas", "Jimena Espinoza", "Esteban Garcia", "Laura Lopez", "Kevin Diaz", "Esteban Mora", "Diana Mora", "Kevin Ruiz", "Ivan Espinoza", "Gabriel Hendrix", "Mateo Espinoza", "Mateo Espinoza", "Carlos Diaz", "Mateo Hendrix", "Gabriel Campbell"
+24 6 21
+"Helena Hendrix", "Diana Soto", "Carlos Gomez", "Ivan Mora", "Carlos Gomez", "Jimena Lopez", "Ivan Espinoza", "Alvaro Rojas", "Oscar Tyler", "Esteban Diaz", "Patricia Garcia", "Helena Gomez", "Kevin Mora", "Esteban Perez", "Helena Lopez", "Helena Campbell", "Carlos Tyler", "Fatima Gomez", "Ivan Jimenez", "Fatima Jimenez", "Kevin Campbell", "Alvaro Gomez", "Ivan Hendrix", "Beatriz Rojas"
+13 4 2
+"Oscar Lopez", "Jimena Espinoza", "Laura Tyler", "Mateo Tyler", "Oscar Rojas", "Beatriz Jimenez", "Ivan Gomez", "Carlos Mora", "Oscar Campbell", "Kevin Jimenez", "Jimena Soto", "Ivan Ruiz", "Laura Garcia"
+7 23 2
+"Beatriz Garcia", "Mateo Diaz", "Mateo Hendrix", "Laura Vargas", "Kevin Perez", "Laura Rojas", "Laura Perez"
+30 8 7
+"Laura Perez", "Diana Lopez", "Helena Campbell", "Oscar Gomez", "Kevin Tyler", "Laura Garcia", "Jimena Vargas", "Nora Garcia", "Alvaro Rojas", "Patricia Rojas", "Oscar Gomez", "Mateo Mora", "Gabriel Perez", "Beatriz Ruiz", "Diana Mora", "Nora Jimenez", "Oscar Diaz", "Esteban Ruiz", "Ivan Ruiz", "Nora Espinoza", "Beatriz Ruiz", "Carlos Tyler", "Helena Ruiz", "Mateo Diaz", "Alvaro Vargas", "Helena Ruiz", "Alvaro Hendrix", "Beatriz Perez", "Kevin Perez", "Carlos Gomez"
+9 1 7
+"Ivan Perez", "Helena Mora", "Jimena Ruiz", "Beatriz Espinoza", "Nora Jimenez", "Beatriz Ruiz", "Beatriz Diaz", "Laura Mora", "Ivan Campbell"
+20 9 14
+"Mateo Ruiz", "Alvaro Perez", "Carlos Ruiz", "Nora Campbell", "Mateo Soto", "Oscar Gomez", "Patricia Lopez", "Oscar Vargas", "Esteban Perez", "Diana Perez", "Kevin Soto", "Esteban Vargas", "Oscar Garcia", "Kevin Diaz", "Esteban Diaz", "Beatriz Vargas", "Beatriz Ruiz", "Laura Tyler", "Patricia Vargas", "Nora Campbell"
+17 8 11
+"Ivan Mora", "Alvaro Soto", "Beatriz Espinoza", "Diana Perez", "Fatima Rojas", "Nora Rojas", "Ivan Lopez", "Oscar Rojas", "Laura Vargas", "Patricia Perez", "Diana Jimenez", "Carlos Gomez", "Esteban Mora", "Jimena Tyler", "Alvaro Diaz", "Esteban Rojas", "Gabriel Tyler"
+9 12 6
+"Helena Tyler", "Esteban Ruiz", "Oscar Mora", "Helena Espinoza", "Kevin Vargas", "Helena Campbell", "Esteban Tyler", "Laura Gomez", "Esteban Hendrix"
+43 12 10
+"Patricia Gomez", "Helena Espinoza", "Gabriel Jimenez", "Oscar Lopez", "Gabriel Lopez", "Kevin Tyler", "Jimena Jimenez", "Fatima Garcia", "Laura Gomez", "Helena Gomez", "Carlos Diaz", "Ivan Espinoza", "Mateo Rojas", "Nora Hendrix", "Helena Gomez", "Gabriel Jimenez", "Carlos Garcia", "Esteban Diaz", "Jimena Campbell", "Oscar Perez", "Diana Vargas", "Ivan Gomez", "Ivan Perez", "Nora Lopez", "Oscar Tyler", "Carlos Jimenez", "Jimena Vargas", "Carlos Espinoza", "Esteban Tyler", "Alvaro Vargas", "Fatima Vargas", "Kevin Jimenez", "Beatriz Gomez", "Jimena Soto", "Mateo Hendrix", "Esteban Vargas", "Gabriel Garcia", "Beatriz Soto", "Gabriel Garcia", "Alvaro Gomez", "Diana Diaz", "Alvaro Soto", "Kevin Tyler"
+5 6 4
+"Mateo Rojas", "Jimena Jimenez", "Jimena Diaz", "Oscar Tyler", "Kevin Vargas"
+11 7 2
+"Jimena Garcia", "Oscar Diaz", "Alvaro Garcia", "Gabriel Ruiz", "Mateo Diaz", "Patricia Perez", "Nora Garcia", "Diana Soto", "Nora Hendrix", "Alvaro Ruiz", "Kevin Garcia"
+2 3 0
+"Mateo Campbell", "Jimena Soto"
+12 13 4
+"Carlos Rojas", "Diana Mora", "Laura Lopez", "Alvaro Perez", "Mateo Rojas", "Diana Jimenez", "Oscar Gomez", "Gabriel Gomez", "Mateo Lopez", "Helena Tyler", "Mateo Jimenez", "Diana Garcia"
+41 25 16
+"Nora Perez", "Fatima Garcia", "Mateo Rojas", "Gabriel Garcia", "Beatriz Hendrix", "Laura Perez", "Nora Jimenez", "Jimena Diaz", "Kevin Perez", "Beatriz Mora", "Diana Garcia", "Mateo Vargas", "Diana Hendrix", "Diana Garcia", "Jimena Campbell", "Oscar Soto", "Alvaro Mora", "Kevin Campbell", "Laura Lopez", "Ivan Mora", "Mateo Espinoza", "Gabriel Garcia", "Nora Perez", "Nora Campbell", "Gabriel Ruiz", "Nora Diaz", "Beatriz Espinoza", "Alvaro Espinoza", "Carlos Gomez", "Laura Soto", "Laura Soto", "Nora Tyler", "Alvaro Gomez", "Beatriz Garcia", "Alvaro Campbell", "Ivan Espinoza", "Alvaro Soto", "Ivan Vargas", "Nora Rojas", "Beatriz Lopez", "Jimena Garcia"
+3 0 1
+"Diana Hendrix", "Fatima Diaz", "Gabriel Gomez"
+36 4 36
+"Helena Mora", "Carlos Lopez", "Patricia Diaz", "Mateo Lopez", "Jimena Diaz", "Jimena Vargas", "Patricia Vargas", "Patricia Tyler", "Ivan Ruiz", "Jimena Garcia", "Laura Diaz", "Esteban Soto", "Ivan Campbell", "Ivan Soto", "Jimena Campbell", "Helena Hendrix", "Beatriz Perez", "Fatima Gomez", "Laura Vargas", "Carlos Jimenez", "Ivan Lopez", "Oscar Lopez", "Carlos Rojas", "Fatima Jimenez", "Fatima Campbell", "Jimena Gomez", "Beatriz Jimenez", "Gabriel Lopez", "Gabriel Hendrix", "Alvaro Mora", "Patricia Jimenez", "Alvaro Gomez", "Laura Diaz", "Ivan Vargas", "Gabriel Gomez", "Fatima Rojas"
+29 17 28
+"Ivan Gomez", "Gabriel Tyler", "Fatima Mora", "Kevin Perez", "Ivan Soto", "Jimena Soto", "Beatriz Soto", "Jimena Ruiz", "Kevin Perez", "Kevin Soto", "Ivan Tyler", "Jimena Perez", "Patricia Perez", "Esteban Gomez", "Beatriz Hendrix", "Carlos Hendrix", "Beatriz Espinoza", "Fatima Vargas", "Nora Gomez", "Beatriz Perez", "Fatima Espinoza", "Helena Hendrix", "Mateo Mora", "Jimena Hendrix", "Beatriz Espinoza", "Patricia Lopez", "Helena Garcia", "Fatima Espinoza", "Helena Perez"
+17 22 0
+"Ivan Rojas", "Jimena Vargas", "Beatriz Vargas", "Jimena Lopez", "Diana Jimenez", "Beatriz Rojas", "Beatriz Hendrix", "Gabriel Rojas", "Alvaro Hendrix", "Helena Ruiz", "Beatriz Tyler", "Gabriel Vargas", "Gabriel Espinoza", "Helena Lopez", "Kevin Jimenez", "Nora Rojas", "Oscar Espinoza"
+30 22 23
+"Esteban Garcia", "Jimena Garcia", "Nora Hendrix", "Alvaro Lopez", "Carlos Hendrix", "Esteban Gomez", "Oscar Vargas", "Carlos Lopez", "Patricia Jimenez", "Gabriel Vargas", "Ivan Ruiz", "Fatima Diaz", "Alvaro Vargas", "Oscar Espinoza", "Beatriz Perez", "Helena Espinoza", "Patricia Soto", "Mateo Lopez", "Carlos Espinoza", "Fatima Ruiz", "Carlos Ruiz", "Fatima Hendrix", "Kevin Soto", "Esteban Mora", "Ivan Gomez", "Mateo Soto", "Jimena Jimenez", "Mateo Gomez", "Ivan Lopez", "Fatima Campbell"
+2 21 1
+"Beatriz Ruiz", "Helena Garcia"
+21 18 16
+"Helena Soto", "Beatriz Perez", "Alvaro Vargas", "Ivan Lopez", "Laura Diaz", "Carlos Perez", "Alvaro Perez", "Mateo Ruiz", "Helena Ruiz", "Jimena Soto", "Nora Mora", "Fatima Lopez", "Diana Gomez", "Gabriel Lopez", "Mateo Gomez", "Beatriz Jimenez", "Alvaro Espinoza", "Laura Soto", "Alvaro Lopez", "Fatima Mora", "Fatima Lopez"
+42 23 22
+"Gabriel Jimenez", "Kevin Tyler", "Beatriz Perez", "Beatriz Jimenez", "Oscar Tyler", "Diana Hendrix", "Beatriz Campbell", "Ivan Espinoza", "Kevin Diaz", "Mateo Jimenez", "Kevin Rojas", "Fatima Tyler", "Alvaro Vargas", "Gabriel Tyler", "Esteban Espinoza", "Beatriz Mora", "Alvaro Ruiz", "Helena Gomez", "Laura Mora", "Esteban Espinoza", "Ivan Hendrix", "Diana Campbell", "Diana Hendrix", "Carlos Espinoza", "Diana Campbell", "Laura Ruiz", "Helena Lopez", "Helena Lopez", "Oscar Jimenez", "Gabriel Diaz", "Carlos Gomez", "Helena Perez", "Laura Jimenez", "Ivan Rojas", "Ivan Ruiz", "Nora Soto", "Kevin Soto", "Fatima Perez", "Diana Campbell", "Kevin Rojas", "Carlos Perez", "Gabriel Ruiz"
+21 6 10
+"Esteban Lopez", "Laura Hendrix", "Patricia Jimenez", "Ivan Mora", "Gabriel Hendrix", "Fatima Gomez", "Helena Tyler", "Kevin Ruiz", "Patricia Tyler", "Mateo Soto", "Oscar Vargas", "Gabriel Diaz", "Mateo Mora", "Laura Tyler", "Helena Espinoza", "Carlos Hendrix", "Alvaro Espinoza", "Carlos Vargas", "Helena Perez", "Diana Diaz", "Esteban Perez"
+45 18 44
+"Patricia Jimenez", "Kevin Hendrix", "Esteban Rojas", "Beatriz Ruiz", "Jimena Diaz", "Esteban Ruiz", "Esteban Lopez", "Alvaro Rojas", "Laura Rojas", "Alvaro Soto", "Gabriel Rojas", "Oscar Gomez", "Patricia Vargas", "Carlos Rojas", "Esteban Diaz", "Gabriel Hendrix", "Helena Garcia", "Oscar Espinoza", "Carlos Campbell", "Beatriz Hendrix", "Kevin Jimenez", "Nora Rojas", "Kevin Perez", "Fatima Ruiz", "Fatima Garcia", "Gabriel Soto", "Mateo Vargas", "Nora Jimenez", "Patricia Ruiz", "Fatima Soto", "Diana Gomez", "Helena Rojas", "Nora Perez", "Mateo Ruiz", "Gabriel Diaz", "Carlos Perez", "Patricia Lopez", "Oscar Garcia", "Fatima Campbell", "Carlos Hendrix", "Gabriel Jimenez", "Laura Espinoza", "Oscar Ruiz", "Alvaro Lopez", "Alvaro Tyler"
+38 24 35
+"Patricia Rojas", "Diana Mora", "Fatima Hendrix", "Ivan Soto", "Nora Campbell", "Alvaro Rojas", "Alvaro Ruiz", "Oscar Garcia", "Kevin Hendrix", "Jimena Jimenez", "Kevin Garcia", "Jimena Jimenez", "Nora Hendrix", "Patricia Jimenez", "Beatriz Mora", "Nora Jimenez", "Jimena Gomez", "Laura Diaz", "Fatima Jimenez", "Carlos Tyler", "Patricia Diaz", "Beatriz Campbell", "Gabriel Jimenez", "Ivan Perez", "Mateo Garcia", "Mateo Gomez", "Patricia Mora", "Mateo Mora", "Fatima Soto", "Ivan Vargas", "Nora Mora", "Nora Gomez", "Beatriz Garcia", "Ivan Rojas", "Nora Campbell", "Helena Gomez", "Beatriz Espinoza", "Beatriz Garcia"
+33 0 7
+"Fatima Ruiz", "Nora Ruiz", "Jimena Espinoza", "Esteban Hendrix", "Diana Lopez", "Mateo Diaz", "Ivan Hendrix", "Laura Vargas", "Kevin Rojas", "Kevin Soto", "Diana Lopez", "Mateo Diaz", "Oscar Espinoza", "Gabriel Vargas", "Kevin Hendrix", "Laura Soto", "Beatriz Diaz", "Nora Ruiz", "Carlos Perez", "Oscar Mora", "Fatima Diaz", "Kevin Hendrix", "Alvaro Tyler", "Helena Espinoza", "Oscar Perez", "Esteban Garcia", "Carlos Tyler", "Esteban Lopez", "Alvaro Campbell", "Carlos Soto", "Nora Rojas", "Helena Jimenez", "Jimena Vargas"
+15 19 4
+"Carlos Soto", "Gabriel Diaz", "Alvaro Gomez", "Diana Espinoza", "Diana Campbell", "Gabriel Ruiz", "Oscar Jimenez", "Fatima Hendrix", "Alvaro Rojas", "Alvaro Soto", "Gabriel Espinoza", "Jimena Hendrix", "Esteban Garcia", "Fatima Garcia", "Diana Lopez"
+11 24 2
+"Mateo Perez", "Carlos Tyler", "Kevin Campbell", "Kevin Vargas", "Mateo Garcia", "Beatriz Hendrix", "Mateo Perez", "Beatriz Tyler", "Laura Tyler", "Kevin Ruiz", "Nora Espinoza"
+12 20 4
+"Patricia Campbell", "Diana Vargas", "Ivan Garcia", "Kevin Jimenez", "Nora Ruiz", "Oscar Vargas", "Mateo Gomez", "Oscar Mora", "Laura Perez", "Patricia Espinoza", "Carlos Perez", "Alvaro Gomez"
+20 22 11
+"Patricia Jimenez", "Diana Hendrix", "Kevin Campbell", "Ivan Soto", "Nora Lopez", "Nora Jimenez", "Gabriel Tyler", "Jimena Garcia", "Gabriel Ruiz", "Patricia Gomez", "Alvaro Perez", "Carlos Rojas", "Helena Lopez", "Helena Mora", "Carlos Diaz", "Kevin Campbell", "Oscar Campbell", "Nora Perez", "Fatima Tyler", "Nora Jimenez"
+16 11 14
+"Mateo Lopez", "Esteban Rojas", "Carlos Diaz", "Ivan Jimenez", "Fatima Mora", "Patricia Tyler", "Beatriz Espinoza", "Kevin Soto", "Oscar Rojas", "Gabriel Campbell", "Nora Vargas", "Gabriel Tyler", "Beatriz Perez", "Kevin Campbell", "Helena Diaz", "Beatriz Lopez"
+4 10 2
+"Fatima Perez", "Fatima Ruiz", "Helena Espinoza", "Patricia Ruiz"
+39 24 30
+"Jimena Lopez", "Beatriz Diaz", "Oscar Soto", "Jimena Vargas", "Carlos Rojas", "Patricia Mora", "Oscar Diaz", "Nora Jimenez", "Carlos Mora", "Patricia Perez", "Laura Gomez", "Ivan Perez", "Alvaro Hendrix", "Diana Vargas", "Jimena Soto", "Beatriz Diaz", "Alvaro Lopez", "Esteban Soto", "Laura Lopez", "Fatima Perez", "Nora Vargas", "Laura Garcia", "Nora Perez", "Alvaro Mora", "Beatriz Mora", "Nora Rojas", "Esteban Campbell", "Mateo Lopez", "Carlos Soto", "Helena Perez", "Ivan Lopez", "Mateo Mora", "Oscar Hendrix", "Gabriel Jimenez", "Nora Soto", "Laura Gomez", "Patricia Mora", "Diana Ruiz", "Jimena Vargas"
+14 22 10
+"Helena Vargas", "Laura Soto", "Mateo Diaz", "Ivan Garcia", "Oscar Espinoza", "Esteban Espinoza", "Esteban Campbell", "Ivan Mora", "Helena Vargas", "Esteban Lopez", "Gabriel Rojas", "Diana Soto", "Laura Vargas", "Gabriel Campbell"
+22 23 21
+"Patricia Jimenez", "Laura Vargas", "Patricia Lopez", "Ivan Rojas", "Patricia Jimenez", "Kevin Mora", "Alvaro Gomez", "Oscar Perez", "Alvaro Rojas", "Carlos Gomez", "Beatriz Espinoza", "Diana Tyler", "Laura Hendrix", "Esteban Tyler", "Diana Tyler", "Diana Espinoza", "Oscar Gomez", "Beatriz Ruiz", "Gabriel Lopez", "Diana Lopez", "Mateo Hendrix", "Nora Espinoza"
+47 22 15
+"Helena Tyler", "Oscar Rojas", "Jimena Soto", "Mateo Tyler", "Oscar Hendrix", "Patricia Jimenez", "Ivan Jimenez", "Ivan Diaz", "Diana Hendrix", "Laura Jimenez", "Beatriz Lopez", "Jimena Vargas", "Nora Perez", "Diana Diaz", "Beatriz Gomez", "Laura Mora", "Ivan Hendrix", "Patricia Espinoza", "Helena Soto", "Mateo Rojas", "Ivan Diaz", "Laura Soto", "Jimena Vargas", "Helena Hendrix", "Diana Tyler", "Beatriz Mora", "Beatriz Garcia", "Fatima Lopez", "Carlos Campbell", "Helena Ruiz", "Esteban Perez", "Fatima Garcia", "Kevin Rojas", "Esteban Mora", "Beatriz Campbell", "Beatriz Jimenez", "Helena Perez", "Ivan Soto", "Patricia Garcia", "Gabriel Soto", "Esteban Mora", "Kevin Tyler", "Fatima Ruiz", "Laura Perez", "Jimena Rojas", "Laura Tyler", "Nora Vargas"
+7 24 1
+"Alvaro Espinoza", "Ivan Lopez", "Alvaro Perez", "Esteban Hendrix", "Gabriel Tyler", "Helena Hendrix", "Mateo Garcia"
+41 18 21
+"Beatriz Soto", "Esteban Espinoza", "Beatriz Diaz", "Patricia Tyler", "Esteban Mora", "Esteban Vargas", "Kevin Perez", "Jimena Lopez", "Fatima Espinoza", "Alvaro Ruiz", "Esteban Mora", "Kevin Rojas", "Patricia Ruiz", "Ivan Perez", "Kevin Garcia", "Laura Garcia", "Oscar Perez", "Esteban Vargas", "Diana Rojas", "Beatriz Perez", "Gabriel Mora", "Diana Vargas", "Patricia Vargas", "Carlos Lopez", "Esteban Mora", "Fatima Rojas", "Kevin Jimenez", "Nora Lopez", "Beatriz Mora", "Fatima Espinoza", "Diana Diaz", "Diana Tyler", "Laura Ruiz", "Beatriz Rojas", "Jimena Garcia", "Ivan Rojas", "Carlos Campbell", "Oscar Lopez", "Patricia Diaz", "Patricia Tyler", "Esteban Garcia"
+50 5 0
+"Oscar Vargas", "Beatriz Ruiz", "Diana Ruiz", "Carlos Rojas", "Esteban Tyler", "Gabriel Mora", "Alvaro Soto", "Esteban Perez", "Nora Garcia", "Esteban Garcia", "Nora Hendrix", "Jimena Lopez", "Carlos Hendrix", "Diana Campbell", "Oscar Mora", "Mateo Mora", "Gabriel Ruiz", "Carlos Perez", "Jimena Ruiz", "Diana Jimenez", "Ivan Perez", "Carlos Mora", "Patricia Tyler", "Ivan Diaz", "Patricia Tyler", "Fatima Campbell", "Jimena Ruiz", "Alvaro Mora", "Kevin Perez", "Carlos Mora", "Ivan Gomez", "Laura Campbell", "Carlos Mora", "Diana Perez", "Kevin Garcia", "Alvaro Mora", "Carlos Hendrix", "Fatima Vargas", "Kevin Vargas", "Nora Perez", "Esteban Gomez", "Fatima Jimenez", "Nora Vargas", "Carlos Perez", "Laura Lopez", "Fatima Vargas", "Ivan Jimenez", "Alvaro Espinoza", "Fatima Campbell", "Nora Rojas"
+16 20 6
+"Jimena Perez", "Helena Garcia", "Diana Gomez", "Diana Soto", "Carlos Perez", "Helena Gomez", "Oscar Vargas", "Jimena Rojas", "Kevin Hendrix", "Beatriz Mora", "Beatriz Diaz", "Patricia Espinoza", "Patricia Soto", "Ivan Diaz", "Patricia Espinoza", "Jimena Garcia"
+32 13 9
+"Jimena Garcia", "Oscar Ruiz", "Gabriel Gomez", "Ivan Espinoza", "Carlos Ruiz", "Alvaro Perez", "Kevin Garcia", "Laura Espinoza", "Esteban Hendrix", "Diana Garcia", "Oscar Gomez", "Ivan Soto", "Oscar Gomez", "Fatima Gomez", "Oscar Perez", "Kevin Soto", "Diana Vargas", "Nora Rojas", "Ivan Espinoza", "Gabriel Rojas", "Nora Rojas", "Fatima Vargas", "Patricia Diaz", "Jimena Garcia", "Esteban Mora", "Alvaro Gomez", "Helena Soto", "Laura Hendrix", "Esteban Espinoza", "Nora Hendrix", "Nora Perez", "Laura Hendrix"
+19 19 5
+"Alvaro Diaz", "Mateo Rojas", "Alvaro Diaz", "Laura Perez", "Laura Hendrix", "Diana Tyler", "Alvaro Soto", "Oscar Soto", "Fatima Campbell", "Carlos Espinoza", "Mateo Ruiz", "Ivan Campbell", "Helena Diaz", "Patricia Diaz", "Beatriz Ruiz", "Fatima Espinoza", "Gabriel Ruiz", "Laura Rojas", "Esteban Ruiz"
+44 8 18
+"Fatima Vargas", "Helena Jimenez", "Beatriz Campbell", "Laura Diaz", "Mateo Hendrix", "Gabriel Lopez", "Laura Tyler", "Beatriz Campbell", "Fatima Lopez", "Carlos Tyler", "Mateo Espinoza", "Patricia Diaz", "Patricia Diaz", "Fatima Vargas", "Kevin Perez", "Ivan Diaz", "Diana Espinoza", "Carlos Vargas", "Ivan Jimenez", "Patricia Gomez", "Oscar Jimenez", "Ivan Lopez", "Alvaro Tyler", "Esteban Garcia", "Oscar Gomez", "Nora Mora", "Jimena Ruiz", "Laura Tyler", "Laura Garcia", "Helena Gomez", "Mateo Lopez", "Jimena Campbell", "Gabriel Espinoza", "Beatriz Perez", "Gabriel Lopez", "Gabriel Hendrix", "Laura Tyler", "Nora Jimenez", "Esteban Perez", "Nora Mora", "Gabriel Hendrix", "Ivan Tyler", "Alvaro Gomez", "Helena Ruiz"
+9 25 4
+"Laura Rojas", "Alvaro Soto", "Helena Lopez", "Beatriz Diaz", "Gabriel Vargas", "Oscar Espinoza", "Carlos Mora", "Nora Garcia", "Alvaro Diaz"
+39 17 29
+"Fatima Vargas", "Gabriel Soto", "Patricia Lopez", "Jimena Diaz", "Laura Soto", "Patricia Soto", "Esteban Garcia", "Patricia Ruiz", "Mateo Gomez", "Laura Mora", "Esteban Campbell", "Carlos Campbell", "Esteban Diaz", "Diana Mora", "Gabriel Rojas", "Carlos Tyler", "Mateo Campbell", "Jimena Garcia", "Carlos Vargas", "Kevin Garcia", "Fatima Jimenez", "Ivan Mora", "Fatima Diaz", "Helena Gomez", "Jimena Espinoza", "Jimena Tyler", "Beatriz Espinoza", "Fatima Espinoza", "Diana Gomez", "Kevin Soto", "Patricia Garcia", "Laura Jimenez", "Alvaro Lopez", "Ivan Jimenez", "Diana Vargas", "Fatima Soto", "Kevin Gomez", "Fatima Soto", "Beatriz Tyler"
+11 8 5
+"Helena Mora", "Gabriel Ruiz", "Mateo Espinoza", "Gabriel Jimenez", "Jimena Mora", "Oscar Vargas", "Carlos Campbell", "Mateo Garcia", "Mateo Campbell", "Diana Garcia", "Mateo Campbell"
+3 25 2
+"Carlos Espinoza", "Nora Tyler", "Patricia Espinoza"
+29 23 17
+"Fatima Mora", "Patricia Ruiz", "Gabriel Hendrix", "Esteban Lopez", "Diana Tyler", "Ivan Garcia", "Carlos Rojas", "Esteban Lopez", "Jimena Hendrix", "Patricia Espinoza", "Ivan Lopez", "Kevin Campbell", "Beatriz Garcia", "Nora Soto", "Ivan Espinoza", "Alvaro Rojas", "Ivan Campbell", "Mateo Rojas", "Laura Jimenez", "Nora Mora", "Beatriz Mora", "Ivan Rojas", "Helena Ruiz", "Helena Gomez", "Beatriz Soto", "Oscar Rojas", "Ivan Garcia", "Nora Garcia", "Carlos Soto"
+10 2 10
+"Kevin Diaz", "Laura Espinoza", "Jimena Vargas", "Helena Gomez", "Jimena Lopez", "Ivan Vargas", "Ivan Rojas", "Fatima Rojas", "Laura Jimenez", "Patricia Rojas"
+43 8 22
+"Jimena Garcia", "Oscar Espinoza", "Laura Vargas", "Oscar Ruiz", "Laura Hendrix", "Esteban Rojas", "Gabriel Perez", "Kevin Hendrix", "Jimena Lopez", "Laura Jimenez", "Beatriz Perez", "Oscar Espinoza", "Ivan Mora", "Helena Jimenez", "Fatima Jimenez", "Ivan Tyler", "Fatima Campbell", "Fatima Tyler", "Nora Campbell", "Esteban Diaz", "Jimena Garcia", "Laura Garcia", "Alvaro Campbell", "Ivan Jimenez", "Patricia Ruiz", "Beatriz Ruiz", "Ivan Diaz", "Ivan Perez", "Diana Gomez", "Oscar Mora", "Beatriz Gomez", "Gabriel Hendrix", "Laura Soto", "Mateo Jimenez", "Jimena Rojas", "Patricia Diaz", "Helena Hendrix", "Kevin Mora", "Mateo Rojas", "Helena Jimenez", "Carlos Campbell", "Esteban Jimenez", "Oscar Perez"
+16 16 9
+"Oscar Jimenez", "Mateo Gomez", "Oscar Lopez", "Oscar Jimenez", "Diana Mora", "Alvaro Vargas", "Ivan Soto", "Oscar Perez", "Gabriel Diaz", "Mateo Mora", "Diana Tyler", "Ivan Diaz", "Jimena Campbell", "Nora Hendrix", "Carlos Campbell", "Gabriel Mora"
+9 0 0
+"Gabriel Espinoza", "Oscar Diaz", "Nora Tyler", "Diana Diaz", "Alvaro Garcia", "Carlos Tyler", "Patricia Espinoza", "Kevin Perez", "Kevin Soto"
+9 22 9
+"Ivan Mora", "Mateo Ruiz", "Carlos Lopez", "Carlos Lopez", "Oscar Campbell", "Diana Soto", "Kevin Diaz", "Nora Espinoza", "Oscar Hendrix"
+5 9 3
+"Esteban Gomez", "Diana Vargas", "Laura Diaz", "Laura Gomez", "Diana Ruiz"
+7 1 3
+"Nora Lopez", "Helena Jimenez", "Oscar Tyler", "Fatima Hendrix", "Jimena Vargas", "Oscar Rojas", "Kevin Mora"
+42 11 8
+"Gabriel Rojas", "Diana Hendrix", "Patricia Mora", "Diana Soto", "Ivan Garcia", "Nora Jimenez", "Kevin Garcia", "Alvaro Espinoza", "Helena Campbell", "Diana Rojas", "Carlos Jimenez", "Ivan Rojas", "Ivan Mora", "Patricia Campbell", "Gabriel Jimenez", "Carlos Gomez", "Oscar Espinoza", "Diana Mora", "Esteban Hendrix", "Gabriel Espinoza", "Beatriz Garcia", "Helena Rojas", "Helena Hendrix", "Oscar Jimenez", "Fatima Diaz", "Fatima Ruiz", "Gabriel Soto", "Gabriel Jimenez", "Nora Soto", "Fatima Espinoza", "Jimena Hendrix", "Oscar Espinoza", "Diana Mora", "Ivan Garcia", "Carlos Perez", "Oscar Hendrix", "Esteban Rojas", "Mateo Vargas", "Oscar Perez", "Nora Hendrix", "Mateo Ruiz", "Ivan Diaz"
+44 5 1
+"Beatriz Soto", "Esteban Ruiz", "Laura Lopez", "Ivan Vargas", "Alvaro Hendrix", "Kevin Lopez", "Alvaro Rojas", "Patricia Hendrix", "Mateo Gomez", "Oscar Hendrix", "Alvaro Vargas", "Kevin Soto", "Carlos Espinoza", "Esteban Hendrix", "Oscar Vargas", "Helena Hendrix", "Beatriz Perez", "Diana Espinoza", "Kevin Diaz", "Diana Diaz", "Mateo Diaz", "Laura Diaz", "Jimena Garcia", "Alvaro Rojas", "Oscar Campbell", "Beatriz Soto", "Jimena Soto", "Diana Campbell", "Fatima Vargas", "Ivan Lopez", "Beatriz Lopez", "Oscar Gomez", "Beatriz Campbell", "Fatima Perez", "Jimena Garcia", "Mateo Rojas", "Esteban Perez", "Diana Tyler", "Oscar Tyler", "Beatriz Ruiz", "Diana Lopez", "Oscar Hendrix", "Jimena Gomez", "Ivan Rojas"
+19 16 6
+"Helena Ruiz", "Alvaro Mora", "Laura Diaz", "Alvaro Mora", "Helena Campbell", "Helena Mora", "Patricia Diaz", "Nora Perez", "Alvaro Mora", "Esteban Jimenez", "Jimena Soto", "Nora Mora", "Diana Rojas", "Jimena Perez", "Laura Tyler", "Nora Rojas", "Fatima Mora", "Helena Garcia", "Diana Garcia"
+2 19 0
+"Gabriel Soto", "Diana Espinoza"
+4 22 0
+"Esteban Mora", "Esteban Diaz", "Helena Vargas", "Nora Rojas"
+10 25 9
+"Laura Mora", "Gabriel Mora", "Oscar Mora", "Alvaro Espinoza", "Jimena Soto", "Laura Diaz", "Fatima Tyler", "Patricia Diaz", "Mateo Rojas", "Patricia Ruiz"
+32 14 10
+"Helena Hendrix", "Gabriel Garcia", "Nora Hendrix", "Helena Lopez", "Fatima Jimenez", "Diana Tyler", "Jimena Espinoza", "Alvaro Rojas", "Alvaro Garcia", "Alvaro Hendrix", "Jimena Lopez", "Nora Soto", "Mateo Campbell", "Carlos Perez", "Beatriz Jimenez", "Carlos Rojas", "Fatima Campbell", "Laura Ruiz", "Beatriz Perez", "Esteban Jimenez", "Mateo Lopez", "Fatima Ruiz", "Patricia Vargas", "Jimena Diaz", "Patricia Diaz", "Diana Rojas", "Nora Vargas", "Oscar Rojas", "Mateo Mora", "Beatriz Ruiz", "Nora Tyler", "Carlos Lopez"
+45 7 5
+"Oscar Soto", "Fatima Tyler", "Diana Vargas", "Patricia Tyler", "Helena Lopez", "Esteban Jimenez", "Oscar Soto", "Carlos Rojas", "Oscar Perez", "Beatriz Espinoza", "Ivan Lopez", "Ivan Gomez", "Kevin Garcia", "Oscar Perez", "Mateo Campbell", "Nora Campbell", "Oscar Perez", "Mateo Hendrix", "Jimena Diaz", "Jimena Hendrix", "Ivan Tyler", "Alvaro Ruiz", "Oscar Espinoza", "Patricia Hendrix", "Diana Rojas", "Patricia Ruiz", "Jimena Jimenez", "Fatima Espinoza", "Nora Lopez", "Diana Vargas", "Oscar Jimenez", "Laura Tyler", "Nora Garcia", "Carlos Soto", "Ivan Perez", "Patricia Tyler", "Nora Gomez", "Diana Hendrix", "Mateo Espinoza", "Mateo Vargas", "Esteban Perez", "Fatima Garcia", "Gabriel Garcia", "Patricia Campbell", "Nora Gomez"

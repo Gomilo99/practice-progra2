@@ -1,0 +1,15 @@
+7
+5 3 2
+"1", "2", "3", "4", "5", "6", "7", "8"
+10 7 3
+"A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"
+4 5 6
+"Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"
+17 13 11
+"1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26", "27", "28", "29", "30", "31", "32", "33", "34", "35", "36", "37", "38", "39", "40", "41", "42", "43", "44", "45", "46", "47", "48", "49", "50", "51", "52", "53", "54", "55", "56", "57", "58", "59", "60", "61", "62", "63", "64", "65", "66", "67", "68", "69", "70", "71", "72", "73", "74", "75", "76", "77", "78", "79", "80", "81", "82", "83", "84", "85", "86", "87", "88", "89", "90", "91", "92", "93", "94", "95", "96", "97", "98", "99", "100"
+50 30 20
+"elem1", "elem2", "elem3", "elem4", "elem5", "elem6", "elem7", "elem8", "elem9", "elem10", "elem11", "elem12", "elem13", "elem14", "elem15", "elem16", "elem17", "elem18", "elem19", "elem20", "elem21", "elem22", "elem23", "elem24", "elem25", "elem26", "elem27", "elem28", "elem29", "elem30", "elem31", "elem32", "elem33", "elem34", "elem35", "elem36", "elem37", "elem38", "elem39", "elem40", "elem41", "elem42", "elem43", "elem44", "elem45", "elem46", "elem47", "elem48", "elem49", "elem50", "elem51", "elem52", "elem53", "elem54", "elem55", "elem56", "elem57", "elem58", "elem59", "elem60", "elem61", "elem62", "elem63", "elem64", "elem65", "elem66", "elem67", "elem68", "elem69", "elem70", "elem71", "elem72", "elem73", "elem74", "elem75", "elem76", "elem77", "elem78", "elem79", "elem80", "elem81", "elem82", "elem83", "elem84", "elem85", "elem86", "elem87", "elem88", "elem89", "elem90", "elem91", "elem92", "elem93", "elem94", "elem95", "elem96", "elem97", "elem98", "elem99", "elem100", "elem101", "elem102", "elem103", "elem104", "elem105", "elem106", "elem107", "elem108", "elem109", "elem110", "elem111", "elem112", "elem113", "elem114", "elem115", "elem116", "elem117", "elem118", "elem119", "elem120", "elem121", "elem122", "elem123", "elem124", "elem125", "elem126", "elem127", "elem128", "elem129", "elem130", "elem131", "elem132", "elem133", "elem134", "elem135", "elem136", "elem137", "elem138", "elem139", "elem140", "elem141", "elem142", "elem143", "elem144", "elem145", "elem146", "elem147", "elem148", "elem149", "elem150", "elem151", "elem152", "elem153", "elem154", "elem155", "elem156", "elem157", "elem158", "elem159", "elem160", "elem161", "elem162", "elem163", "elem164", "elem165", "elem166", "elem167", "elem168", "elem169", "elem170", "elem171", "elem172", "elem173", "elem174", "elem175", "elem176", "elem177", "elem178", "elem179", "elem180", "elem181", "elem182", "elem183", "elem184", "elem185", "elem186", "elem187", "elem188", "elem189", "elem190", "elem191", "elem192", "elem193", "elem194", "elem195", "elem196", "elem197", "elem198", "elem199", "elem200"
+3 2 1
+"O'Connor", "Renée", "Müller", "Hernández-Gómez", "Niño", "María-José"
+2 1 1
+"A", "B", "C", "D", "E", "F", "G", "H", "I", "J"

@@ -1,0 +1,134 @@
+Persona 4 Golden, JRPG, ATLUS, 2017
+Persona 5 Royal, JRPG, ATLUS, 2019
+The Legend of Zelda: Breath of the Wild, Aventura, Nintendo, 2017
+Hollow Knight, Metroidvania, Team Cherry, 2017
+Dark Souls III, ActionRPG, FromSoftware, 2016
+Elden Ring, ActionRPG, FromSoftware, 2022
+The Witcher 3: Wild Hunt, ActionRPG, CD Projekt Red, 2015
+Hades, Roguelike, Supergiant Games, 2020
+Celeste, Plataformas, Maddy Makes Games, 2018
+Stardew Valley, Simulacion, ConcernedApe, 2016
+God of War, Aventura, Santa Monica Studio, 2018
+God of War Ragnarok, Aventura, Santa Monica Studio, 2022
+Red Dead Redemption 2, Aventura, Rockstar Games, 2018
+Grand Theft Auto V, Aventura, Rockstar Games, 2013
+NieR: Automata, ActionRPG, PlatinumGames, 2017
+Monster Hunter: World, ActionRPG, Capcom, 2018
+Overwatch, Shooter, Blizzard Entertainment, 2016
+Final Fantasy VII Remake, JRPG, Square Enix, 2020
+Metroid Dread, Metroidvania, Nintendo, 2021
+Super Mario Odyssey, Plataformas, Nintendo, 2017
+Mass Effect 2, ActionRPG, BioWare, 2010
+Mass Effect Legendary Edition, ActionRPG, BioWare, 2021
+Diablo III, ActionRPG, Blizzard Entertainment, 2012
+Diablo IV, ActionRPG, Blizzard Entertainment, 2023
+World of Warcraft, MMO, Blizzard Entertainment, 2004
+Final Fantasy XIV Online, MMO, Square Enix, 2013
+Destiny 2, Shooter, Bungie, 2017
+Halo Infinite, Shooter, 343 Industries, 2021
+Call of Duty: Modern Warfare II, Shooter, Infinity Ward, 2022
+Gears 5, Shooter, The Coalition, 2019
+Assassin's Creed Odyssey, Aventura, Ubisoft, 2018
+Assassin's Creed Valhalla, Aventura, Ubisoft, 2020
+The Elder Scrolls V: Skyrim, ActionRPG, Bethesda Game Studios, 2011
+Fallout 4, ActionRPG, Bethesda Game Studios, 2015
+Cyberpunk 2077, ActionRPG, CD Projekt Red, 2020
+Dragon Quest XI S: Echoes of an Elusive Age, JRPG, Square Enix, 2019
+Xenoblade Chronicles 3, JRPG, Monolith Soft, 2022
+Ori and the Will of the Wisps, Metroidvania, Moon Studios, 2020
+Cuphead, Plataformas, Studio MDHR, 2017
+No Man's Sky, Simulacion, Hello Games, 2016
+Bloodborne, ActionRPG, FromSoftware, 2015
+Sekiro: Shadows Die Twice, ActionRPG, FromSoftware, 2019
+Horizon Zero Dawn, Aventura, Guerrilla Games, 2017
+Horizon Forbidden West, Aventura, Guerrilla Games, 2022
+Ghost of Tsushima, Aventura, Sucker Punch Productions, 2020
+Death Stranding, Aventura, Kojima Productions, 2019
+Control, Aventura, Remedy Entertainment, 2019
+Alan Wake 2, Aventura, Remedy Entertainment, 2023
+Resident Evil 2, Survival Horror, Capcom, 2019
+Resident Evil 4, Survival Horror, Capcom, 2023
+Resident Evil Village, Survival Horror, Capcom, 2021
+Bayonetta 3, Hack and Slash, PlatinumGames, 2022
+Devil May Cry 5, Hack and Slash, Capcom, 2019
+Doom Eternal, Shooter, id Software, 2020
+Wolfenstein II: The New Colossus, Shooter, MachineGames, 2017
+Titanfall 2, Shooter, Respawn Entertainment, 2016
+Apex Legends, Shooter, Respawn Entertainment, 2019
+Splatoon 3, Shooter, Nintendo, 2022
+Fire Emblem: Three Houses, JRPG, Intelligent Systems, 2019
+Octopath Traveler II, JRPG, Square Enix, 2023
+Tales of Arise, JRPG, Bandai Namco, 2021
+Yakuza: Like a Dragon, JRPG, Ryu Ga Gotoku Studio, 2020
+Disco Elysium, RPG, ZA/UM, 2019
+Baldurs Gate 3, RPG, Larian Studios, 2023
+Divinity: Original Sin 2, RPG, Larian Studios, 2017
+Hollow Knight: Silksong, Metroidvania, Team Cherry, 2025
+Shovel Knight, Plataformas, Yacht Club Games, 2014
+Inside, Plataformas, Playdead, 2016
+Limbo, Plataformas, Playdead, 2010
+Journey, Aventura, Thatgamecompany, 2012
+Dark Souls, ActionRPG, FromSoftware, 2011
+Monster Hunter Rise, ActionRPG, Capcom, 2021
+Nioh, ActionRPG, Team Ninja, 2017
+Nioh 2, ActionRPG, Team Ninja, 2020
+Kingdom Hearts III, ActionRPG, Square Enix, 2019
+Ni no Kuni: Wrath of the White Witch, JRPG, Level-5, 2011
+The Legend of Heroes: Trails in the Sky, JRPG, Nihon Falcom, 2004
+Chrono Trigger, JRPG, Square, 1995
+Final Fantasy VI, JRPG, Square, 1994
+Final Fantasy IX, JRPG, Square, 2000
+Persona 3 Reload, JRPG, Atlus, 2024
+Shin Megami Tensei V, JRPG, Atlus, 2021
+Pokemon Escarlata, JRPG, Game Freak, 2022
+Final Fantasy XIII, JRPG, Square Enix, 2009
+Fallout: New Vegas, ActionRPG, Obsidian Entertainment, 2010
+Starfield, ActionRPG, Bethesda Game Studios, 2023
+Octopath Traveler, JRPG, Square Enix, 2018
+Bravely Default II, JRPG, Claytechworks, 2021
+Ni no Kuni II, JRPG, Level-5, 2018
+The Legend of Zelda: Tears of the Kingdom, Aventura, Nintendo, 2023
+Uncharted 4: A Thiefs End, Aventura, Naughty Dog, 2016
+The Last of Us Part II, Aventura, Naughty Dog, 2020
+Days Gone, Aventura, Bend Studio, 2019
+Batman: Arkham Knight, Aventura, Rocksteady Studios, 2015
+Marvel’s Spider-Man, Aventura, Insomniac Games, 2018
+Spider-Man: Miles Morales, Aventura, Insomniac Games, 2020
+Tomb Raider, Aventura, Crystal Dynamics, 2013
+Rise of the Tomb Raider, Aventura, Crystal Dynamics, 2015
+Shadow of the Tomb Raider, Aventura, Eidos-Montreal, 2018
+Prince of Persia: The Lost Crown, Aventura, Ubisoft, 2024
+Warcraft III, Estrategia, Blizzard Entertainment, 2002
+StarCraft II, Estrategia, Blizzard Entertainment, 2010
+Age of Empires IV, Estrategia, Relic Entertainment, 2021
+Age of Empires II, Estrategia, Ensemble Studios, 1999
+Humankind, Estrategia, Amplitude Studios, 2021
+Civilization VI, Estrategia, Firaxis Games, 2016
+Gears Tactics, Estrategia, Splash Damage, 2020
+XCOM 2, Estrategia, Firaxis Games, 2016
+Total War: Warhammer III, Estrategia, Creative Assembly, 2022
+Total War: Shogun 2, Estrategia, Creative Assembly, 2011
+SimCity 4, Simulacion, Maxis, 2003
+Cities: Skylines, Simulacion, Colossal Order, 2015
+Animal Crossing: New Horizons, Simulacion, Nintendo, 2020
+The Sims 4, Simulacion, Maxis, 2014
+Harvest Moon: Back to Nature, Simulacion, Natsume, 1999
+Football Manager 2024, Simulacion, Sports Interactive, 2023
+RollerCoaster Tycoon 3, Simulacion, Frontier Developments, 2004
+Planet Zoo, Simulacion, Frontier Developments, 2019
+RimWorld, Simulacion, Ludeon Studios, 2018
+DOOM (2016), Shooter, id Software, 2016
+Quake Champions, Shooter, id Software, 2017
+Halo 3, Shooter, Bungie, 2007
+Call of Duty: Black Ops Cold War, Shooter, Treyarch, 2020
+Battlefield 1, Shooter, DICE, 2016
+Battlefield V, Shooter, DICE, 2018
+Overwatch 2, Shooter, Blizzard Entertainment, 2022
+Paladins, Shooter, Evil Mojo Games, 2018
+Fortnite, Shooter, Epic Games, 2017
+Valorant, Shooter, Riot Games, 2020
+Counter-Strike 2, Shooter, Valve, 2023
+Warframe, Shooter, Digital Extremes, 2013
+Borderlands 3, Shooter, Gearbox Software, 2019
+Far Cry 6, Shooter, Ubisoft, 2021
+Metro Exodus, Shooter, 4A Games, 2019
